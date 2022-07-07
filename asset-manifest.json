@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/splitzy/static/css/main.5d6716bf.css",
+    "main.js": "/splitzy/static/js/main.883ee804.js",
+    "static/js/787.f9b0e8ad.chunk.js": "/splitzy/static/js/787.f9b0e8ad.chunk.js",
+    "static/media/logo.svg": "/splitzy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/splitzy/index.html",
+    "main.5d6716bf.css.map": "/splitzy/static/css/main.5d6716bf.css.map",
+    "main.883ee804.js.map": "/splitzy/static/js/main.883ee804.js.map",
+    "787.f9b0e8ad.chunk.js.map": "/splitzy/static/js/787.f9b0e8ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6716bf.css",
+    "static/js/main.883ee804.js"
+  ]
+}
