@@ -6,6 +6,6 @@ Here is the link to view the deployment https://ausdauerer.github.io/splitzy/
 ![alt text](https://github.com/ausdauerer/splitzy/blob/f16a6c3ca5a0ef3cccf3c0142f2119682a43e724/splitz/images/4.png)
 ![alt text](https://github.com/ausdauerer/splitzy/blob/f16a6c3ca5a0ef3cccf3c0142f2119682a43e724/splitz/images/5.png)
 
-<img src="![alt text](https://github.com/ausdauerer/splitzy/blob/f16a6c3ca5a0ef3cccf3c0142f2119682a43e724/splitz/images/1.png)"  width="300" height="650">  
+<img src="https://github.com/ausdauerer/splitzy/blob/08fc5b465bf310e646c2462b876083792c392208/splitz/images/1.png"  width="300" height="650">  
 
 
